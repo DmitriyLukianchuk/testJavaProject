@@ -7,6 +7,7 @@ public class ff_google {
 
 		WebDriver driver = new FirefoxDriver();
 		driver.get("http://google.com");
+		System.out.println("Done!");
 	}
 
 }
